@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OpenHeart.cs">
+    <Files>
+      <File FileName="Assets\OpenHeartNegative.cs" Line="17" Column="31" />
+      <File FileName="Assets\PlayerPickUps.cs" Line="16" Column="40" />
+      <File FileName="..\..\..\RollaBall\Assets\scripts\playerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\OpenHeart.cs" Line="17" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
